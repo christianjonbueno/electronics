@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Macbook Pro 16",
+    "description": "Designed for those who defy limits and change the world, the new MacBook Pro is by far the most powerful notebook we’ve ever made. With an immersive 16-inch Retina display, superfast processors, next-generation graphics, the largest battery capacity ever in a MacBook Pro, a new Magic Keyboard, and massive storage, it’s the ultimate pro notebook for the ultimate user.",
+    "color": "Space Gray",
+    "price": 2499.99,
+    "pictureURL": "https://specials-images.forbesimg.com/imageserve/5df3d5d7e961e10007390720/960x0.jpg?fit=scale"
+  },
+  {
+    "name": "Nintendo Switch",
+    "description": "Play anywhere with this Nintendo Switch Neon Blue and Neon Red Joy-Con bundle. The two colorful controllers included with this pack come with a grip to act as a traditional controller or can be attached to the system for mobile play. Dock this Nintendo Switch Neon Blue and Neon Red Joy-Con bundle to your TV for big-screen gaming.",
+    "color": "Neon",
+    "price": 299.99,
+    "pictureURL": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6364/6364255_sa.jpg"
+  },
+  {
+    "name": "Beats by Dre Solo Pro",
+    "description": "Get inspired with Solo Pro wireless headphones. To deliver sound how you want it, Solo Pro features two listening modes: Active Noise Cancelling (ANC) and Transparency. Beats' Pure ANC gives you the space to create with fully immersive sound, while Transparency helps you stay aware of your surroundings. Every detail of Solo Pro has been carefully considered, right down to the intuitive way the headphones turn on and off via folding. The ergonomic design delivers exceptional comfort for extended wear and sleek style. And with up to 22 hours of battery life, you can keep the music going no matter where your day takes you.",
+    "color": "ivory",
+    "price": 299.99,
+    "pictureURL": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6383/6383117_sd.jpg"
+  }
+]
